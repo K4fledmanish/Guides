@@ -1,2 +1,2 @@
 # Guides
- IOS app using Objective C
+IOS app using Objective C, CocoaPods, Firestore
