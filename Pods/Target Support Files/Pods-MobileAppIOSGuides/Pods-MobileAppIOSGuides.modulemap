@@ -1,0 +1,6 @@
+framework module Pods_MobileAppIOSGuides {
+  umbrella header "Pods-MobileAppIOSGuides-umbrella.h"
+
+  export *
+  module * { export * }
+}
